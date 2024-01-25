@@ -10,6 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            var tatatatatara = 2f;
             Console.WriteLine("ratata55asdasd5");
         }
     }
