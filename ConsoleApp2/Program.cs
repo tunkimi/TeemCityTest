@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace ConsoleApp2
 {
@@ -11,6 +8,14 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("ratata55asdasd5");
+
+            var b = JsonConvert.SerializeObject(new A { x = 4 });
         }
+    }
+
+
+    class A
+    {
+        public int x;
     }
 }
