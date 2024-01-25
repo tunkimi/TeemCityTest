@@ -10,6 +10,8 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ratata");
+            Console.ReadKey();
             int a = "fdgdfg";
         }
     }
