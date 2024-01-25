@@ -12,7 +12,7 @@ namespace ConsoleApp2
         {
             Console.WriteLine("ratata");
             Console.ReadKey();
-            var a = "ratatatata";
+            var a = "ratatatata1111";
         }
     }
 }
