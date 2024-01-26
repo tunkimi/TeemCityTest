@@ -11,6 +11,7 @@ namespace ConsoleApp2
             int a;
             Console.WriteLine("ratata55asdasd5");
 
+
             var b = JsonConvert.SerializeObject(new A { x = 4 });
         }
 
