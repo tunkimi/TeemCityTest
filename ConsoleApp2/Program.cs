@@ -16,7 +16,7 @@ namespace ConsoleApp2
         }
 
 
-        //no pls
+        //no pls god
 
 
     }
