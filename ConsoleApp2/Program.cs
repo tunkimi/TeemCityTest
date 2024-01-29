@@ -12,7 +12,7 @@ namespace ConsoleApp2
             Console.WriteLine("ratata55asdasd5");
 
 
-            var b = JsonConvert.SerializeObject(new A { x = 4 });
+            var b = JsonConvert.SerializeObject(new A { x = 4 })
         }
 
 
