@@ -17,7 +17,6 @@ namespace ConsoleApp2
         //master
     }
 
-
     class A
     {
         public int x;
