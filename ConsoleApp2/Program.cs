@@ -14,7 +14,6 @@ namespace ConsoleApp2
 
             var b = JsonConvert.SerializeObject(new A { x = 4 });
         }
-
         //master
     }
 
