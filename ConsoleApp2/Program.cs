@@ -13,7 +13,6 @@ namespace ConsoleApp2
             Console.WriteLine("-");
             //tc-33
 
-
         }
     }
 }
