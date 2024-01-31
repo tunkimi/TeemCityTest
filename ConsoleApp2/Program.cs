@@ -14,7 +14,6 @@ namespace ConsoleApp2
             //tc-33
 
 
-
         }
     }
 }
