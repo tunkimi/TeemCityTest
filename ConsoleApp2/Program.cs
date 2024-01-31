@@ -11,7 +11,6 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("-");
-            //side commit
             //tc-33
 
 
